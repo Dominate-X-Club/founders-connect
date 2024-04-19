@@ -1,6 +1,5 @@
-# 🤝 
-# founders-connect
----
+# 🤝 founders-connect-app
+
 Home for all the corporate sponsors.
 
 
